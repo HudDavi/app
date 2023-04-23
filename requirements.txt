@@ -1,0 +1,14 @@
+briefcase
+flask
+flask_wtf
+toga
+gunicorn
+jinja2
+requests
+rubicon-java
+rubicon-objc
+setuptools
+tox
+virtualenv
+wheel
+wtforms
